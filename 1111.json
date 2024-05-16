@@ -1,6 +1,10 @@
 {
   "sites": [
 {"key": "*AIvin","name": "*AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key":"*窝资源","name":"*窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*老牛资源","name":"老牛资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*奶香资源","name":"*奶香资源","type":1,"api":"https://Naixxzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*黄瓜资源","name":"*黄瓜资源","type":1,"api":"https://www.avre06.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*探探资源","name":"*探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*色猫资源","name":"*色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*色南国资源","name":"*色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
